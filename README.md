@@ -1,0 +1,1 @@
+Hi! This project was made to familiarize myself with interfaces. I created two interfaces, ICompany and IVehicle, and have my three classes, Car, Truck, and SUV, inherit from both interfaces. The main method makes one of each vehicle, and add them to a list of type ICompany, then it proceeds to print info about each item in the list, based on type of vehicle it is.
